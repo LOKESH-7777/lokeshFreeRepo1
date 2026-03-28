@@ -14,6 +14,6 @@ print("Original Number:", num)
 print("Calculated Sum:", sum)
 
 if sum == num:
-    print("Armstrong Number ✅")
+    print("Armstrong Number - SUCCESS")
 else:
-    print("Not Armstrong Number ❌")
+    print("Not Armstrong Number - FAILED")
